@@ -171,19 +171,27 @@ font = {'family': 'Droid Sans',
         'weight': 'normal',
         'size': 14}
 
-'''
-noactive, = plt.plot(basex, basey, label=u'without active learning', linestyle='--')
-active, = plt.plot(clusterx, clustery, label = u'with active learning', linestyle='-')
 
-legend = plt.legend(handles=[noactive, active], loc=4)
+#noactive, = plt.plot(basex, basey, label=u'without active learning', linestyle='--')
+#active, = plt.plot(clusterx, clustery, label = u'with active learning + clustering', linestyle='-')
+#minmarg, = plt.plot(marginx, marginy, label = u'with active learning', linestyle='dotted')
+prob, = plt.plot(clusterz, clustery)
 
-ax = plt.gca().add_artist(legend)
-plt.xlabel(u'train set size')
+
+#legend = plt.legend(handles=[prob], loc=4)
+
+#ax = plt.gca().add_artist(legend)
+plt.xlabel(u'stopping criteria parameter')
 plt.ylabel(u'f1 score')
 
 plt.show()
-'''
 
+'''
+plt.plot(baseline_activex, baseline_activey, clusterx, clustery)
+plt.xlabel(u'train set size')
+plt.ylabel(u'f1 score')
+plt.show()
+'''
 print 'baseline f1 score:', basey[1]
 print 'maximum f1 score:', clustery.max(), 'at train size', clusterx[np.argmax(clustery)], 'and proba', clusterz[np.argmax(clustery)]
 
@@ -199,7 +207,41 @@ for i in range(0, len(crit)):
 print 'f1 score when crit satisfied:', crit_f1
 
 
-#clusterzder = np.diff(clusterz)
+clusterzder = np.diff(clusterz)
 #plt.plot(clusterx[:len(clusterx) - 1], clusterzder, 'r', clusterx[:len(clusterx) - 1], clustery[:len(clustery) - 1], 'g')
-#plt.plot(clusterx[:len(clusterx) - 1], clusterzder)
-#plt.show()
+plt.plot(clusterz, clustery)
+plt.show()
+
+maxdoc = basex[1]
+maxres = basey[1]
+p1 = maxres - 0.01
+p2 = maxres - 0.005
+p3 = maxres - 0.002
+p4 = maxres - 0.001
+
+print p1, p2, p3, p4
+
+for i, docsize in enumerate(clusterx):
+    if clustery[i] >= p1:
+        print '-1%', 100 * docsize/maxdoc
+        break
+
+for i, docsize in enumerate(clusterx):
+    if clustery[i] >= p2:
+        print '-0.5%', 100 * docsize/maxdoc
+        break
+
+for i, docsize in enumerate(clusterx):
+    if clustery[i] >= p3:
+        print '-0.2%', 100 * docsize/maxdoc
+        break
+
+for i, docsize in enumerate(clusterx):
+    if clustery[i] >= p4:
+        print '-0.1%', 100 * docsize/maxdoc
+        break
+
+for i, docsize in enumerate(clusterx):
+    if clustery[i] >= maxres:
+        print '-0.0%', 100 * docsize/maxdoc
+        break
