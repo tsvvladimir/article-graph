@@ -1,0 +1,1268 @@
+baseline_active_fold2 20 ;  0.0970902608347
+baseline_active_fold2 40 ;  0.241172796107
+active_minimum_margin_fold2 20 ;  0.0970902608347
+baseline_solution_fold2 8485 ;  0.894367156052
+baseline_active_fold2 60 ;  0.354934988172
+baseline_active_fold2 80 ;  0.419129142359
+active_minimum_margin_fold2 40 ;  0.228731633767
+baseline_active_fold2 100 ;  0.448943014665
+baseline_active_fold2 120 ;  0.462252623149
+active_minimum_margin_fold2 60 ;  0.265860001897
+baseline_active_fold2 140 ;  0.483659750764
+baseline_active_fold2 160 ;  0.505207114981
+baseline_active_fold2 180 ;  0.514955749449
+active_minimum_margin_fold2 80 ;  0.345651381316
+baseline_active_fold2 200 ;  0.525561588623
+baseline_active_fold2 220 ;  0.548681327792
+active_minimum_margin_fold2 100 ;  0.394109224819
+baseline_active_fold2 240 ;  0.566750263037
+baseline_active_fold2 260 ;  0.576109119856
+active_minimum_margin_fold2 120 ;  0.411079190391
+baseline_active_fold2 280 ;  0.580940909125
+baseline_active_fold2 300 ;  0.591539229929
+active_minimum_margin_fold2 140 ;  0.451979366142
+baseline_active_fold2 320 ;  0.596496107546
+baseline_active_fold2 340 ;  0.60241233551
+active_minimum_margin_fold2 160 ;  0.481224958741
+baseline_active_fold2 360 ;  0.618355599348
+baseline_active_fold2 380 ;  0.620957651716
+active_minimum_margin_fold2 180 ;  0.504063602672
+baseline_active_fold2 400 ;  0.63278246681
+baseline_active_fold2 420 ;  0.634535276422
+active_minimum_margin_fold2 200 ;  0.526682260961
+baseline_active_fold2 440 ;  0.638696964631
+active_minimum_margin_fold2 220 ;  0.54851983287
+baseline_active_fold2 460 ;  0.648477091406
+baseline_active_fold2 480 ;  0.65976371613
+active_minimum_margin_fold2 240 ;  0.57102632727
+active_cluster_svm_margin_fold2 20 ;  0.28335176986 ; 0.577265866392
+baseline_active_fold2 500 ;  0.663516563946
+baseline_active_fold2 520 ;  0.666937573814
+active_minimum_margin_fold2 260 ;  0.585488273671
+active_cluster_svm_margin_fold2 40 ;  0.362166658092 ; 0.601052111767
+baseline_active_fold2 540 ;  0.672849204494
+active_cluster_svm_margin_fold2 60 ;  0.423563094523 ; 0.612125711444
+active_minimum_margin_fold2 280 ;  0.601158763056
+baseline_active_fold2 560 ;  0.68031269837
+active_cluster_svm_margin_fold2 80 ;  0.458584769167 ; 0.609486211566
+baseline_active_fold2 580 ;  0.678410245824
+active_minimum_margin_fold2 300 ;  0.603476528637
+active_cluster_svm_margin_fold2 100 ;  0.476639781325 ; 0.618574236325
+baseline_active_fold2 600 ;  0.687042072554
+active_minimum_margin_fold2 320 ;  0.613735726047
+baseline_active_fold2 620 ;  0.689699553552
+active_cluster_svm_margin_fold2 120 ;  0.502430174479 ; 0.61861183982
+baseline_active_fold2 640 ;  0.695137343698
+active_minimum_margin_fold2 340 ;  0.618691121687
+active_cluster_svm_margin_fold2 140 ;  0.538415808301 ; 0.620472513897
+baseline_active_fold2 660 ;  0.699450477132
+active_minimum_margin_fold2 360 ;  0.633316479362
+baseline_active_fold2 680 ;  0.699510755854
+active_cluster_svm_margin_fold2 160 ;  0.561584921896 ; 0.617899666497
+active_minimum_margin_fold2 380 ;  0.635641375461
+baseline_active_fold2 700 ;  0.70448823532
+active_cluster_svm_margin_fold2 180 ;  0.580490561602 ; 0.616057306225
+baseline_active_fold2 720 ;  0.707901387496
+active_minimum_margin_fold2 400 ;  0.643930460302
+active_cluster_svm_margin_fold2 200 ;  0.58722923878 ; 0.618407482374
+baseline_active_fold2 740 ;  0.707068130682
+active_minimum_margin_fold2 420 ;  0.646993205131
+baseline_active_fold2 760 ;  0.707738845347
+active_cluster_svm_margin_fold2 220 ;  0.594437347341 ; 0.626643865844
+active_minimum_margin_fold2 440 ;  0.661315224862
+baseline_active_fold2 780 ;  0.708690239822
+active_cluster_svm_margin_fold2 240 ;  0.598618116827 ; 0.635368740878
+baseline_active_fold2 800 ;  0.706387352359
+active_minimum_margin_fold2 460 ;  0.670573664782
+active_cluster_svm_margin_fold2 260 ;  0.603324988748 ; 0.638901704884
+baseline_active_fold2 820 ;  0.710064221319
+active_cluster_svm_margin_fold2 280 ;  0.622093339641 ; 0.644222744995
+active_minimum_margin_fold2 480 ;  0.678975717838
+baseline_active_fold2 840 ;  0.718124235225
+active_cluster_svm_margin_fold2 300 ;  0.615133281614 ; 0.649396301636
+baseline_active_fold2 860 ;  0.719698056504
+active_minimum_margin_fold2 500 ;  0.679749984929
+active_cluster_svm_margin_fold2 320 ;  0.627288102376 ; 0.656377754201
+baseline_active_fold2 880 ;  0.718402234153
+active_minimum_margin_fold2 520 ;  0.693732910721
+baseline_active_fold2 900 ;  0.720585210336
+active_cluster_svm_margin_fold2 340 ;  0.639542661461 ; 0.66021314746
+active_minimum_margin_fold2 540 ;  0.696720322884
+baseline_active_fold2 920 ;  0.723798025474
+active_cluster_svm_margin_fold2 360 ;  0.6500023815 ; 0.668599076547
+active_minimum_margin_fold2 560 ;  0.696842857969
+baseline_active_fold2 940 ;  0.729639871708
+active_cluster_svm_margin_fold2 380 ;  0.646481287925 ; 0.686198345871
+active_minimum_margin_fold2 580 ;  0.703575721714
+baseline_active_fold2 960 ;  0.730660658614
+active_cluster_svm_margin_fold2 400 ;  0.655203650313 ; 0.684698680154
+baseline_active_fold2 980 ;  0.731959645507
+active_minimum_margin_fold2 600 ;  0.707880932106
+active_cluster_svm_margin_fold2 420 ;  0.664287715196 ; 0.684605684465
+baseline_active_fold2 1000 ;  0.737210970191
+active_cluster_svm_margin_fold2 440 ;  0.669750179294 ; 0.685407976584
+active_minimum_margin_fold2 620 ;  0.708436040573
+baseline_active_fold2 1020 ;  0.735998163234
+active_cluster_svm_margin_fold2 460 ;  0.67486057463 ; 0.686080436742
+active_minimum_margin_fold2 640 ;  0.711208239156
+baseline_active_fold2 1040 ;  0.735695566194
+baseline_active_fold2 1060 ;  0.738707045964
+active_minimum_margin_fold2 660 ;  0.710581928347
+active_cluster_svm_margin_fold2 480 ;  0.678700720979 ; 0.6871778885
+baseline_active_fold2 1080 ;  0.741844911487
+active_cluster_svm_margin_fold2 500 ;  0.686817020786 ; 0.687094428402
+active_minimum_margin_fold2 680 ;  0.720863055434
+baseline_active_fold2 1100 ;  0.739405276511
+active_cluster_svm_margin_fold2 520 ;  0.688104333162 ; 0.689299016373
+active_minimum_margin_fold2 700 ;  0.724811068979
+baseline_active_fold2 1120 ;  0.742693380614
+active_cluster_svm_margin_fold2 540 ;  0.693392489285 ; 0.690793009107
+baseline_active_fold2 1140 ;  0.745833611801
+active_minimum_margin_fold2 720 ;  0.728367034917
+active_cluster_svm_margin_fold2 560 ;  0.697559431635 ; 0.692328720637
+baseline_active_fold2 1160 ;  0.749434676689
+active_minimum_margin_fold2 740 ;  0.732623173428
+active_cluster_svm_margin_fold2 580 ;  0.704766729189 ; 0.715888008844
+baseline_active_fold2 1180 ;  0.753405472945
+active_minimum_margin_fold2 760 ;  0.738678253952
+active_cluster_svm_margin_fold2 600 ;  0.708289066549 ; 0.712874311487
+baseline_active_fold2 1200 ;  0.75083914518
+active_minimum_margin_fold2 780 ;  0.73625336307
+active_cluster_svm_margin_fold2 620 ;  0.716296320407 ; 0.715868235597
+baseline_active_fold2 1220 ;  0.755394007122
+active_minimum_margin_fold2 800 ;  0.740664326404
+baseline_active_fold2 1240 ;  0.756969388516
+active_cluster_svm_margin_fold2 640 ;  0.71825062575 ; 0.730560479427
+active_minimum_margin_fold2 820 ;  0.745343255577
+baseline_active_fold2 1260 ;  0.757196778122
+active_cluster_svm_margin_fold2 660 ;  0.72540606884 ; 0.729577811469
+baseline_active_fold2 1280 ;  0.755261146264
+active_minimum_margin_fold2 840 ;  0.747274618565
+active_cluster_svm_margin_fold2 680 ;  0.735088232499 ; 0.735550239103
+baseline_active_fold2 1300 ;  0.756356062047
+active_minimum_margin_fold2 860 ;  0.746471028768
+active_cluster_svm_margin_fold2 700 ;  0.736610670343 ; 0.730448873591
+baseline_active_fold2 1320 ;  0.757507080379
+active_minimum_margin_fold2 880 ;  0.751931325037
+active_cluster_svm_margin_fold2 720 ;  0.736104910988 ; 0.762994042273
+baseline_active_fold2 1340 ;  0.759965230134
+active_minimum_margin_fold2 900 ;  0.756427875614
+active_cluster_svm_margin_fold2 740 ;  0.741310909226 ; 0.774794705636
+baseline_active_fold2 1360 ;  0.763321286626
+active_cluster_svm_margin_fold2 760 ;  0.740500027485 ; 0.772168811612
+active_minimum_margin_fold2 920 ;  0.75906683698
+baseline_active_fold2 1380 ;  0.764796729231
+baseline_active_fold2 1400 ;  0.765074243522
+active_cluster_svm_margin_fold2 780 ;  0.74127385638 ; 0.794778560101
+active_minimum_margin_fold2 940 ;  0.760755772538
+baseline_active_fold2 1420 ;  0.76687786411
+active_cluster_svm_margin_fold2 800 ;  0.742325050897 ; 0.793496556404
+active_minimum_margin_fold2 960 ;  0.762268491374
+baseline_active_fold2 1440 ;  0.771151307764
+active_cluster_svm_margin_fold2 820 ;  0.746026109881 ; 0.795897486099
+active_minimum_margin_fold2 980 ;  0.7689717355
+baseline_active_fold2 1460 ;  0.767298500143
+active_cluster_svm_margin_fold2 840 ;  0.74913633468 ; 0.808639174393
+active_minimum_margin_fold2 1000 ;  0.771199262183
+baseline_active_fold2 1480 ;  0.769851086189
+active_cluster_svm_margin_fold2 860 ;  0.753173642578 ; 0.810913870855
+active_minimum_margin_fold2 1020 ;  0.774812144916
+baseline_active_fold2 1500 ;  0.772059933375
+active_cluster_svm_margin_fold2 880 ;  0.757512745431 ; 0.821581520235
+active_minimum_margin_fold2 1040 ;  0.779038758703
+baseline_active_fold2 1520 ;  0.774692772309
+active_cluster_svm_margin_fold2 900 ;  0.765948633238 ; 0.821647489143
+baseline_active_fold2 1540 ;  0.777559166288
+active_minimum_margin_fold2 1060 ;  0.778735669201
+active_cluster_svm_margin_fold2 920 ;  0.76906475861 ; 0.833721224497
+baseline_active_fold2 1560 ;  0.780420233807
+active_minimum_margin_fold2 1080 ;  0.777739718228
+active_cluster_svm_margin_fold2 940 ;  0.771802148543 ; 0.842017480296
+baseline_active_fold2 1580 ;  0.781716228138
+active_minimum_margin_fold2 1100 ;  0.779049708141
+active_cluster_svm_margin_fold2 960 ;  0.780081881435 ; 0.850436997666
+baseline_active_fold2 1600 ;  0.782880991609
+active_minimum_margin_fold2 1120 ;  0.783093237359
+active_cluster_svm_margin_fold2 980 ;  0.781626251423 ; 0.856553237519
+baseline_active_fold2 1620 ;  0.781738138982
+active_minimum_margin_fold2 1140 ;  0.785677781541
+active_cluster_svm_margin_fold2 1000 ;  0.78026120716 ; 0.856731870918
+baseline_active_fold2 1640 ;  0.780633847609
+active_minimum_margin_fold2 1160 ;  0.787191173463
+active_cluster_svm_margin_fold2 1020 ;  0.779980978528 ; 0.867017138354
+baseline_active_fold2 1660 ;  0.779774271645
+active_minimum_margin_fold2 1180 ;  0.788966337658
+active_cluster_svm_margin_fold2 1040 ;  0.783092414504 ; 0.866798628787
+baseline_active_fold2 1680 ;  0.783099026161
+active_cluster_svm_margin_fold2 1060 ;  0.782884838682 ; 0.863664062054
+active_minimum_margin_fold2 1200 ;  0.789215672483
+baseline_active_fold2 1700 ;  0.786314445531
+active_cluster_svm_margin_fold2 1080 ;  0.781869860946 ; 0.86664997545
+active_minimum_margin_fold2 1220 ;  0.792754881583
+baseline_active_fold2 1720 ;  0.787390488856
+active_cluster_svm_margin_fold2 1100 ;  0.785217107991 ; 0.864562607746
+active_minimum_margin_fold2 1240 ;  0.795401571197
+baseline_active_fold2 1740 ;  0.785835746039
+active_cluster_svm_margin_fold2 1120 ;  0.792940339168 ; 0.862164208411
+active_minimum_margin_fold2 1260 ;  0.79587318426
+baseline_active_fold2 1760 ;  0.78989906733
+active_cluster_svm_margin_fold2 1140 ;  0.791999514002 ; 0.860430730084
+active_minimum_margin_fold2 1280 ;  0.793016384737
+baseline_active_fold2 1780 ;  0.787945900414
+active_cluster_svm_margin_fold2 1160 ;  0.795678253927 ; 0.859007727117
+active_minimum_margin_fold2 1300 ;  0.795514339973
+baseline_active_fold2 1800 ;  0.787318613765
+active_cluster_svm_margin_fold2 1180 ;  0.794496172814 ; 0.856339409178
+active_minimum_margin_fold2 1320 ;  0.799813126387
+baseline_active_fold2 1820 ;  0.787270249222
+active_cluster_svm_margin_fold2 1200 ;  0.792706508124 ; 0.863230593368
+active_minimum_margin_fold2 1340 ;  0.799414569438
+baseline_active_fold2 1840 ;  0.791255137325
+active_cluster_svm_margin_fold2 1220 ;  0.793087869808 ; 0.864680090343
+active_minimum_margin_fold2 1360 ;  0.803257021985
+baseline_active_fold2 1860 ;  0.791863851144
+active_cluster_svm_margin_fold2 1240 ;  0.795110481825 ; 0.86512126387
+active_minimum_margin_fold2 1380 ;  0.801742890555
+baseline_active_fold2 1880 ;  0.790880765253
+active_cluster_svm_margin_fold2 1260 ;  0.796330083837 ; 0.868142810424
+active_minimum_margin_fold2 1400 ;  0.80256860255
+baseline_active_fold2 1900 ;  0.790741508509
+active_cluster_svm_margin_fold2 1280 ;  0.79361573053 ; 0.868339900059
+active_minimum_margin_fold2 1420 ;  0.802328172101
+baseline_active_fold2 1920 ;  0.790642484861
+active_cluster_svm_margin_fold2 1300 ;  0.794071321406 ; 0.876950177647
+baseline_active_fold2 1940 ;  0.791633648107
+active_minimum_margin_fold2 1440 ;  0.8034533697
+active_cluster_svm_margin_fold2 1320 ;  0.7936363344 ; 0.884014750651
+baseline_active_fold2 1960 ;  0.793361990961
+active_minimum_margin_fold2 1460 ;  0.80324996091
+active_cluster_svm_margin_fold2 1340 ;  0.799762767041 ; 0.873892499644
+baseline_active_fold2 1980 ;  0.794053175328
+active_minimum_margin_fold2 1480 ;  0.811942928443
+baseline_active_fold2 2000 ;  0.795493807302
+active_cluster_svm_margin_fold2 1360 ;  0.797727273868 ; 0.873616587509
+active_minimum_margin_fold2 1500 ;  0.814324635947
+baseline_active_fold2 2020 ;  0.795248927262
+active_cluster_svm_margin_fold2 1380 ;  0.800081243995 ; 0.87305687402
+active_minimum_margin_fold2 1520 ;  0.813567611192
+baseline_active_fold2 2040 ;  0.79606510452
+active_cluster_svm_margin_fold2 1400 ;  0.802719501214 ; 0.874520544494
+active_minimum_margin_fold2 1540 ;  0.812423848355
+baseline_active_fold2 2060 ;  0.796005820259
+active_cluster_svm_margin_fold2 1420 ;  0.804602915097 ; 0.874194236104
+active_minimum_margin_fold2 1560 ;  0.81592321849
+baseline_active_fold2 2080 ;  0.800062470529
+active_cluster_svm_margin_fold2 1440 ;  0.805270081044 ; 0.878333501627
+active_minimum_margin_fold2 1580 ;  0.817531210226
+baseline_active_fold2 2100 ;  0.800977852598
+active_cluster_svm_margin_fold2 1460 ;  0.806466089195 ; 0.881167190491
+active_minimum_margin_fold2 1600 ;  0.82350377016
+baseline_active_fold2 2120 ;  0.799401117906
+active_cluster_svm_margin_fold2 1480 ;  0.808913926272 ; 0.887401566856
+active_minimum_margin_fold2 1620 ;  0.823312834769
+baseline_active_fold2 2140 ;  0.80136996329
+active_cluster_svm_margin_fold2 1500 ;  0.807824361449 ; 0.901574449884
+active_minimum_margin_fold2 1640 ;  0.82509871807
+baseline_active_fold2 2160 ;  0.801837979289
+active_cluster_svm_margin_fold2 1520 ;  0.810265924444 ; 0.904221592896
+active_minimum_margin_fold2 1660 ;  0.828770334923
+baseline_active_fold2 2180 ;  0.800434436257
+active_cluster_svm_margin_fold2 1540 ;  0.812894984391 ; 0.904515258596
+active_minimum_margin_fold2 1680 ;  0.828444540607
+baseline_active_fold2 2200 ;  0.799947225902
+active_cluster_svm_margin_fold2 1560 ;  0.813437905286 ; 0.903633471303
+active_minimum_margin_fold2 1700 ;  0.830731654339
+baseline_active_fold2 2220 ;  0.802047251376
+active_cluster_svm_margin_fold2 1580 ;  0.81237162598 ; 0.907502263859
+baseline_active_fold2 2240 ;  0.802914602021
+active_minimum_margin_fold2 1720 ;  0.831142592976
+active_cluster_svm_margin_fold2 1600 ;  0.809604807769 ; 0.907720003922
+baseline_active_fold2 2260 ;  0.803903094478
+active_minimum_margin_fold2 1740 ;  0.831475140488
+active_cluster_svm_margin_fold2 1620 ;  0.811210909637 ; 0.908275913063
+active_minimum_margin_fold2 1760 ;  0.834003439603
+baseline_active_fold2 2280 ;  0.805522964544
+active_cluster_svm_margin_fold2 1640 ;  0.81242084877 ; 0.907741333762
+active_minimum_margin_fold2 1780 ;  0.834406478582
+baseline_active_fold2 2300 ;  0.806348868168
+active_cluster_svm_margin_fold2 1660 ;  0.817192409934 ; 0.907930383407
+baseline_active_fold2 2320 ;  0.809824428718
+active_minimum_margin_fold2 1800 ;  0.83401853931
+active_cluster_svm_margin_fold2 1680 ;  0.821889721122 ; 0.908138908688
+active_minimum_margin_fold2 1820 ;  0.833402859454
+baseline_active_fold2 2340 ;  0.80843557684
+active_cluster_svm_margin_fold2 1700 ;  0.820833073367 ; 0.9094700677
+active_minimum_margin_fold2 1840 ;  0.837043999709
+baseline_active_fold2 2360 ;  0.809844794076
+active_cluster_svm_margin_fold2 1720 ;  0.820339720635 ; 0.909820361727
+active_minimum_margin_fold2 1860 ;  0.833574888176
+baseline_active_fold2 2380 ;  0.809698809196
+active_cluster_svm_margin_fold2 1740 ;  0.821666835279 ; 0.909796201815
+active_minimum_margin_fold2 1880 ;  0.838350976672
+baseline_active_fold2 2400 ;  0.810827393175
+active_cluster_svm_margin_fold2 1760 ;  0.823441296595 ; 0.911012573578
+baseline_active_fold2 2420 ;  0.810437215707
+active_minimum_margin_fold2 1900 ;  0.835891208633
+active_cluster_svm_margin_fold2 1780 ;  0.827111771602 ; 0.913220471865
+baseline_active_fold2 2440 ;  0.811532675714
+active_minimum_margin_fold2 1920 ;  0.837796426301
+active_cluster_svm_margin_fold2 1800 ;  0.825071811482 ; 0.914636787974
+baseline_active_fold2 2460 ;  0.811731329886
+active_minimum_margin_fold2 1940 ;  0.839896349771
+active_cluster_svm_margin_fold2 1820 ;  0.831069927827 ; 0.916496940127
+baseline_active_fold2 2480 ;  0.811280664257
+active_minimum_margin_fold2 1960 ;  0.842038849172
+active_cluster_svm_margin_fold2 1840 ;  0.830658382204 ; 0.916263324145
+baseline_active_fold2 2500 ;  0.811828842094
+active_minimum_margin_fold2 1980 ;  0.839882017973
+active_cluster_svm_margin_fold2 1860 ;  0.829933745859 ; 0.918362871783
+baseline_active_fold2 2520 ;  0.811386400155
+active_minimum_margin_fold2 2000 ;  0.842499281424
+active_cluster_svm_margin_fold2 1880 ;  0.832560348638 ; 0.919127375333
+baseline_active_fold2 2540 ;  0.811411584622
+active_minimum_margin_fold2 2020 ;  0.844886953833
+active_cluster_svm_margin_fold2 1900 ;  0.832764847801 ; 0.923906905494
+baseline_active_fold2 2560 ;  0.813846515296
+active_minimum_margin_fold2 2040 ;  0.846421914926
+active_cluster_svm_margin_fold2 1920 ;  0.836945313444 ; 0.929307374363
+baseline_active_fold2 2580 ;  0.815979693809
+active_minimum_margin_fold2 2060 ;  0.846839881647
+active_cluster_svm_margin_fold2 1940 ;  0.835376514226 ; 0.931821787829
+baseline_active_fold2 2600 ;  0.816030270406
+active_minimum_margin_fold2 2080 ;  0.849702560283
+active_cluster_svm_margin_fold2 1960 ;  0.835685152496 ; 0.931819895822
+baseline_active_fold2 2620 ;  0.813895416765
+active_cluster_svm_margin_fold2 1980 ;  0.835794402611 ; 0.931012618502
+active_minimum_margin_fold2 2100 ;  0.850474398805
+baseline_active_fold2 2640 ;  0.814068635218
+active_cluster_svm_margin_fold2 2000 ;  0.837458817975 ; 0.930359298212
+active_minimum_margin_fold2 2120 ;  0.851717985599
+baseline_active_fold2 2660 ;  0.816643395456
+active_cluster_svm_margin_fold2 2020 ;  0.838549211841 ; 0.930780956962
+active_minimum_margin_fold2 2140 ;  0.85097935299
+baseline_active_fold2 2680 ;  0.818139438475
+active_cluster_svm_margin_fold2 2040 ;  0.840498310634 ; 0.932445222138
+active_minimum_margin_fold2 2160 ;  0.850013468193
+baseline_active_fold2 2700 ;  0.818083356917
+active_cluster_svm_margin_fold2 2060 ;  0.841878250879 ; 0.934013811229
+active_minimum_margin_fold2 2180 ;  0.851894172748
+baseline_active_fold2 2720 ;  0.821147071299
+active_cluster_svm_margin_fold2 2080 ;  0.843632129492 ; 0.934229030187
+active_minimum_margin_fold2 2200 ;  0.853272693044
+baseline_active_fold2 2740 ;  0.822068050507
+active_cluster_svm_margin_fold2 2100 ;  0.843440555158 ; 0.93446662432
+active_minimum_margin_fold2 2220 ;  0.854178289228
+baseline_active_fold2 2760 ;  0.822986059143
+active_cluster_svm_margin_fold2 2120 ;  0.845033114696 ; 0.939779524257
+active_minimum_margin_fold2 2240 ;  0.853994772146
+baseline_active_fold2 2780 ;  0.82108671001
+active_cluster_svm_margin_fold2 2140 ;  0.846162198625 ; 0.939609186575
+active_minimum_margin_fold2 2260 ;  0.855824138999
+baseline_active_fold2 2800 ;  0.821980338101
+active_cluster_svm_margin_fold2 2160 ;  0.848333938469 ; 0.939931178274
+active_minimum_margin_fold2 2280 ;  0.855146328126
+baseline_active_fold2 2820 ;  0.821510344741
+active_cluster_svm_margin_fold2 2180 ;  0.850046718138 ; 0.93994035488
+active_minimum_margin_fold2 2300 ;  0.854633984955
+baseline_active_fold2 2840 ;  0.820279790248
+active_cluster_svm_margin_fold2 2200 ;  0.850312067245 ; 0.940495918458
+active_minimum_margin_fold2 2320 ;  0.851884155131
+active_cluster_svm_margin_fold2 2220 ;  0.850788186613 ; 0.940652537404
+baseline_active_fold2 2860 ;  0.822253768238
+active_minimum_margin_fold2 2340 ;  0.855757669377
+baseline_active_fold2 2880 ;  0.825057512665
+active_cluster_svm_margin_fold2 2240 ;  0.849708817159 ; 0.939821529088
+active_minimum_margin_fold2 2360 ;  0.853476814364
+baseline_active_fold2 2900 ;  0.826855833624
+active_cluster_svm_margin_fold2 2260 ;  0.849755588973 ; 0.93988617603
+active_minimum_margin_fold2 2380 ;  0.852637163825
+baseline_active_fold2 2920 ;  0.82823079584
+active_cluster_svm_margin_fold2 2280 ;  0.851522432191 ; 0.940184774404
+active_minimum_margin_fold2 2400 ;  0.852283900223
+baseline_active_fold2 2940 ;  0.828464992243
+active_cluster_svm_margin_fold2 2300 ;  0.853503473424 ; 0.941205096784
+active_minimum_margin_fold2 2420 ;  0.852625801997
+baseline_active_fold2 2960 ;  0.829238084744
+active_cluster_svm_margin_fold2 2320 ;  0.849359496489 ; 0.941440609112
+active_minimum_margin_fold2 2440 ;  0.853438902027
+baseline_active_fold2 2980 ;  0.831711245815
+active_cluster_svm_margin_fold2 2340 ;  0.850098623725 ; 0.942484208731
+active_minimum_margin_fold2 2460 ;  0.855452180853
+baseline_active_fold2 3000 ;  0.832467362512
+active_cluster_svm_margin_fold2 2360 ;  0.852211378143 ; 0.942963818008
+active_minimum_margin_fold2 2480 ;  0.856563763796
+active_cluster_svm_margin_fold2 2380 ;  0.852442964303 ; 0.94330852981
+baseline_active_fold2 3020 ;  0.831458929959
+active_minimum_margin_fold2 2500 ;  0.858563321476
+active_cluster_svm_margin_fold2 2400 ;  0.854225295199 ; 0.943831261112
+baseline_active_fold2 3040 ;  0.8308654457
+active_minimum_margin_fold2 2520 ;  0.856353475524
+baseline_active_fold2 3060 ;  0.831632640887
+active_cluster_svm_margin_fold2 2420 ;  0.853257401399 ; 0.944088404718
+active_minimum_margin_fold2 2540 ;  0.857963786754
+baseline_active_fold2 3080 ;  0.834944445773
+active_cluster_svm_margin_fold2 2440 ;  0.853635483708 ; 0.943845868773
+active_minimum_margin_fold2 2560 ;  0.860824521398
+baseline_active_fold2 3100 ;  0.834674712819
+active_cluster_svm_margin_fold2 2460 ;  0.855313952752 ; 0.942639374092
+active_minimum_margin_fold2 2580 ;  0.861332504359
+active_cluster_svm_margin_fold2 2480 ;  0.856249799737 ; 0.944457149663
+baseline_active_fold2 3120 ;  0.837066988407
+active_minimum_margin_fold2 2600 ;  0.861307525266
+active_cluster_svm_margin_fold2 2500 ;  0.856699484794 ; 0.94478774899
+baseline_active_fold2 3140 ;  0.837309307853
+active_minimum_margin_fold2 2620 ;  0.863475711695
+active_cluster_svm_margin_fold2 2520 ;  0.860195904536 ; 0.944351988528
+baseline_active_fold2 3160 ;  0.836620210175
+active_minimum_margin_fold2 2640 ;  0.863720346737
+active_cluster_svm_margin_fold2 2540 ;  0.860366073008 ; 0.944424395495
+baseline_active_fold2 3180 ;  0.839771166624
+active_minimum_margin_fold2 2660 ;  0.865044885057
+active_cluster_svm_margin_fold2 2560 ;  0.85937323571 ; 0.944567326064
+baseline_active_fold2 3200 ;  0.838752961476
+active_minimum_margin_fold2 2680 ;  0.867044640911
+active_cluster_svm_margin_fold2 2580 ;  0.860905825422 ; 0.944541390273
+baseline_active_fold2 3220 ;  0.838598321477
+active_cluster_svm_margin_fold2 2600 ;  0.859282065154 ; 0.944592891352
+active_minimum_margin_fold2 2700 ;  0.867633934724
+baseline_active_fold2 3240 ;  0.838347327129
+active_cluster_svm_margin_fold2 2620 ;  0.859225580741 ; 0.944772579917
+active_minimum_margin_fold2 2720 ;  0.865645331546
+baseline_active_fold2 3260 ;  0.837861417373
+active_cluster_svm_margin_fold2 2640 ;  0.859076603326 ; 0.947643142799
+active_minimum_margin_fold2 2740 ;  0.866634234401
+baseline_active_fold2 3280 ;  0.83675781291
+active_cluster_svm_margin_fold2 2660 ;  0.858204975714 ; 0.947737413554
+active_minimum_margin_fold2 2760 ;  0.868734875163
+baseline_active_fold2 3300 ;  0.83605521189
+active_cluster_svm_margin_fold2 2680 ;  0.860964388332 ; 0.94710093528
+active_minimum_margin_fold2 2780 ;  0.868380918342
+baseline_active_fold2 3320 ;  0.837121955021
+active_cluster_svm_margin_fold2 2700 ;  0.861293596628 ; 0.947234896779
+active_minimum_margin_fold2 2800 ;  0.86893547955
+baseline_active_fold2 3340 ;  0.834407137131
+active_cluster_svm_margin_fold2 2720 ;  0.861447525246 ; 0.947170072242
+active_minimum_margin_fold2 2820 ;  0.87216015309
+baseline_active_fold2 3360 ;  0.835290330584
+active_cluster_svm_margin_fold2 2740 ;  0.86237070048 ; 0.947368785823
+active_minimum_margin_fold2 2840 ;  0.871174132212
+baseline_active_fold2 3380 ;  0.836277465016
+active_cluster_svm_margin_fold2 2760 ;  0.863633414492 ; 0.947855140381
+active_minimum_margin_fold2 2860 ;  0.871027706273
+baseline_active_fold2 3400 ;  0.835903605424
+active_cluster_svm_margin_fold2 2780 ;  0.86413751729 ; 0.94909456881
+active_minimum_margin_fold2 2880 ;  0.872081566593
+baseline_active_fold2 3420 ;  0.837024594225
+active_cluster_svm_margin_fold2 2800 ;  0.865698753354 ; 0.949713626846
+active_minimum_margin_fold2 2900 ;  0.872449712524
+baseline_active_fold2 3440 ;  0.839582464786
+active_cluster_svm_margin_fold2 2820 ;  0.86711890877 ; 0.951330765894
+active_minimum_margin_fold2 2920 ;  0.87116071831
+baseline_active_fold2 3460 ;  0.83922228554
+active_cluster_svm_margin_fold2 2840 ;  0.868032593334 ; 0.955087477672
+active_minimum_margin_fold2 2940 ;  0.870831750029
+baseline_active_fold2 3480 ;  0.839612002596
+active_cluster_svm_margin_fold2 2860 ;  0.869413624927 ; 0.955270101492
+active_minimum_margin_fold2 2960 ;  0.871798712614
+baseline_active_fold2 3500 ;  0.838696865044
+active_cluster_svm_margin_fold2 2880 ;  0.870928596674 ; 0.955957135938
+active_minimum_margin_fold2 2980 ;  0.873091869569
+baseline_active_fold2 3520 ;  0.8401078554
+active_cluster_svm_margin_fold2 2900 ;  0.871275283058 ; 0.956272833383
+active_minimum_margin_fold2 3000 ;  0.873285136031
+baseline_active_fold2 3540 ;  0.838762479095
+active_cluster_svm_margin_fold2 2920 ;  0.87236911925 ; 0.956320594466
+active_minimum_margin_fold2 3020 ;  0.874261970485
+baseline_active_fold2 3560 ;  0.839648952032
+active_cluster_svm_margin_fold2 2940 ;  0.873280418363 ; 0.956832316541
+active_minimum_margin_fold2 3040 ;  0.876374273076
+active_cluster_svm_margin_fold2 2960 ;  0.874021731792 ; 0.956987695592
+baseline_active_fold2 3580 ;  0.839118034829
+active_minimum_margin_fold2 3060 ;  0.874548680394
+active_cluster_svm_margin_fold2 2980 ;  0.875076905621 ; 0.956910857717
+baseline_active_fold2 3600 ;  0.839051012387
+active_minimum_margin_fold2 3080 ;  0.873225406507
+active_cluster_svm_margin_fold2 3000 ;  0.873913230694 ; 0.956891132442
+baseline_active_fold2 3620 ;  0.841305488705
+active_minimum_margin_fold2 3100 ;  0.873437481982
+active_cluster_svm_margin_fold2 3020 ;  0.873637377281 ; 0.956493472441
+baseline_active_fold2 3640 ;  0.840511719707
+active_minimum_margin_fold2 3120 ;  0.875031733569
+active_cluster_svm_margin_fold2 3040 ;  0.875286486544 ; 0.956265078254
+baseline_active_fold2 3660 ;  0.840745133176
+active_minimum_margin_fold2 3140 ;  0.875290629964
+active_cluster_svm_margin_fold2 3060 ;  0.87634783547 ; 0.956763217881
+baseline_active_fold2 3680 ;  0.841136842068
+active_cluster_svm_margin_fold2 3080 ;  0.875605434424 ; 0.957016613819
+active_minimum_margin_fold2 3160 ;  0.875105585649
+baseline_active_fold2 3700 ;  0.84181891226
+active_minimum_margin_fold2 3180 ;  0.876085523397
+active_cluster_svm_margin_fold2 3100 ;  0.87617543416 ; 0.957491027571
+baseline_active_fold2 3720 ;  0.842727320481
+active_minimum_margin_fold2 3200 ;  0.875049689349
+active_cluster_svm_margin_fold2 3120 ;  0.877349888766 ; 0.957102824086
+baseline_active_fold2 3740 ;  0.841921144823
+active_minimum_margin_fold2 3220 ;  0.87442155061
+active_cluster_svm_margin_fold2 3140 ;  0.878878024496 ; 0.956183705208
+baseline_active_fold2 3760 ;  0.84450267414
+active_minimum_margin_fold2 3240 ;  0.874001968185
+active_cluster_svm_margin_fold2 3160 ;  0.87912668436 ; 0.95640213274
+baseline_active_fold2 3780 ;  0.843933224183
+active_minimum_margin_fold2 3260 ;  0.874032240735
+active_cluster_svm_margin_fold2 3180 ;  0.882162004786 ; 0.956911810462
+baseline_active_fold2 3800 ;  0.845982189991
+active_minimum_margin_fold2 3280 ;  0.875328775884
+active_cluster_svm_margin_fold2 3200 ;  0.882794423744 ; 0.957151965343
+baseline_active_fold2 3820 ;  0.846090505608
+active_minimum_margin_fold2 3300 ;  0.872649350242
+active_cluster_svm_margin_fold2 3220 ;  0.883840581219 ; 0.956859913588
+baseline_active_fold2 3840 ;  0.846399772296
+active_minimum_margin_fold2 3320 ;  0.871840558834
+active_cluster_svm_margin_fold2 3240 ;  0.882670892111 ; 0.956918474997
+baseline_active_fold2 3860 ;  0.848272380405
+active_minimum_margin_fold2 3340 ;  0.871980789855
+active_cluster_svm_margin_fold2 3260 ;  0.883320445409 ; 0.957376786475
+baseline_active_fold2 3880 ;  0.848617990367
+active_minimum_margin_fold2 3360 ;  0.874369278568
+active_cluster_svm_margin_fold2 3280 ;  0.882964461452 ; 0.957283945563
+baseline_active_fold2 3900 ;  0.850999732098
+active_minimum_margin_fold2 3380 ;  0.875594096375
+active_cluster_svm_margin_fold2 3300 ;  0.882278433512 ; 0.957202734072
+baseline_active_fold2 3920 ;  0.851332017206
+active_minimum_margin_fold2 3400 ;  0.877345451387
+active_cluster_svm_margin_fold2 3320 ;  0.880329538057 ; 0.957209514508
+baseline_active_fold2 3940 ;  0.850821528852
+active_minimum_margin_fold2 3420 ;  0.877471242566
+active_cluster_svm_margin_fold2 3340 ;  0.8818730109 ; 0.957019168386
+baseline_active_fold2 3960 ;  0.851815368156
+active_minimum_margin_fold2 3440 ;  0.877294212037
+active_cluster_svm_margin_fold2 3360 ;  0.881931774496 ; 0.957349173732
+baseline_active_fold2 3980 ;  0.852126681098
+active_minimum_margin_fold2 3460 ;  0.875430250843
+active_cluster_svm_margin_fold2 3380 ;  0.882328878514 ; 0.957079299384
+baseline_active_fold2 4000 ;  0.85218520088
+active_minimum_margin_fold2 3480 ;  0.874949896923
+active_cluster_svm_margin_fold2 3400 ;  0.883356289189 ; 0.957363094995
+baseline_active_fold2 4020 ;  0.852201104592
+active_minimum_margin_fold2 3500 ;  0.875674306801
+active_cluster_svm_margin_fold2 3420 ;  0.88510095349 ; 0.957526862617
+baseline_active_fold2 4040 ;  0.852742127368
+active_minimum_margin_fold2 3520 ;  0.876368210391
+active_cluster_svm_margin_fold2 3440 ;  0.885391352492 ; 0.958356128585
+baseline_active_fold2 4060 ;  0.853753518803
+active_minimum_margin_fold2 3540 ;  0.878172930254
+active_cluster_svm_margin_fold2 3460 ;  0.887346332481 ; 0.957462561097
+active_cluster_svm_margin_fold2 3480 ;  0.886010670666 ; 0.957494806562
+active_minimum_margin_fold2 3560 ;  0.878227235689
+baseline_active_fold2 4080 ;  0.853121227428
+active_cluster_svm_margin_fold2 3500 ;  0.885223962996 ; 0.958064996488
+baseline_active_fold2 4100 ;  0.853606405336
+active_minimum_margin_fold2 3580 ;  0.876760414062
+active_cluster_svm_margin_fold2 3520 ;  0.88550481248 ; 0.958836570068
+baseline_active_fold2 4120 ;  0.852761620614
+active_minimum_margin_fold2 3600 ;  0.87676163855
+active_cluster_svm_margin_fold2 3540 ;  0.886437632852 ; 0.958851103215
+baseline_active_fold2 4140 ;  0.853655153181
+active_minimum_margin_fold2 3620 ;  0.876867922103
+baseline_active_fold2 4160 ;  0.855907418623
+active_cluster_svm_margin_fold2 3560 ;  0.885345618432 ; 0.95887805932
+active_minimum_margin_fold2 3640 ;  0.878054394272
+active_minimum_margin_fold2 3660 ;  0.880773122658
+active_cluster_svm_margin_fold2 3580 ;  0.884084487997 ; 0.959271200426
+baseline_active_fold2 4180 ;  0.855473742943
+active_minimum_margin_fold2 3680 ;  0.879777078082
+baseline_active_fold2 4200 ;  0.857006782921
+active_cluster_svm_margin_fold2 3600 ;  0.884422202781 ; 0.960942152822
+active_minimum_margin_fold2 3700 ;  0.879479774846
+baseline_active_fold2 4220 ;  0.857642341409
+active_cluster_svm_margin_fold2 3620 ;  0.881580760635 ; 0.960876578154
+active_minimum_margin_fold2 3720 ;  0.881269762736
+active_cluster_svm_margin_fold2 3640 ;  0.883690848745 ; 0.960876771569
+baseline_active_fold2 4240 ;  0.856598326021
+active_minimum_margin_fold2 3740 ;  0.880597549281
+active_cluster_svm_margin_fold2 3660 ;  0.883612835838 ; 0.961977367282
+baseline_active_fold2 4260 ;  0.857114929135
+active_minimum_margin_fold2 3760 ;  0.881834102867
+baseline_active_fold2 4280 ;  0.858147933687
+active_cluster_svm_margin_fold2 3680 ;  0.882277162416 ; 0.9626348122
+active_minimum_margin_fold2 3780 ;  0.882755605503
+active_cluster_svm_margin_fold2 3700 ;  0.883140866091 ; 0.962714666691
+baseline_active_fold2 4300 ;  0.857990647868
+active_minimum_margin_fold2 3800 ;  0.880589443227
+active_cluster_svm_margin_fold2 3720 ;  0.883492554676 ; 0.962728886267
+baseline_active_fold2 4320 ;  0.858437505103
+active_cluster_svm_margin_fold2 3740 ;  0.883068167049 ; 0.964143093448
+active_minimum_margin_fold2 3820 ;  0.881881907054
+baseline_active_fold2 4340 ;  0.859442343782
+active_minimum_margin_fold2 3840 ;  0.883259761389
+baseline_active_fold2 4360 ;  0.858498546151
+active_cluster_svm_margin_fold2 3760 ;  0.883682058503 ; 0.964081175143
+active_minimum_margin_fold2 3860 ;  0.883578644532
+baseline_active_fold2 4380 ;  0.858754263793
+active_cluster_svm_margin_fold2 3780 ;  0.883464636966 ; 0.964344070913
+active_cluster_svm_margin_fold2 3800 ;  0.883306130344 ; 0.964533342222
+baseline_active_fold2 4400 ;  0.859425735923
+active_minimum_margin_fold2 3880 ;  0.883691744083
+active_minimum_margin_fold2 3900 ;  0.885852551945
+active_cluster_svm_margin_fold2 3820 ;  0.885519215142 ; 0.965108476738
+baseline_active_fold2 4420 ;  0.861067930978
+active_minimum_margin_fold2 3920 ;  0.884879764396
+baseline_active_fold2 4440 ;  0.858746707585
+active_cluster_svm_margin_fold2 3840 ;  0.884864350455 ; 0.965052019178
+active_minimum_margin_fold2 3940 ;  0.884706122417
+baseline_active_fold2 4460 ;  0.85889201458
+active_cluster_svm_margin_fold2 3860 ;  0.883081384396 ; 0.964992697636
+active_minimum_margin_fold2 3960 ;  0.88707081108
+baseline_active_fold2 4480 ;  0.861131856664
+active_cluster_svm_margin_fold2 3880 ;  0.885159673036 ; 0.966184146695
+active_cluster_svm_margin_fold2 3900 ;  0.884386369269 ; 0.966687119538
+active_minimum_margin_fold2 3980 ;  0.885861065491
+baseline_active_fold2 4500 ;  0.862124661718
+active_cluster_svm_margin_fold2 3920 ;  0.88699111539 ; 0.966809581902
+active_minimum_margin_fold2 4000 ;  0.885734864544
+baseline_active_fold2 4520 ;  0.861395377605
+active_cluster_svm_margin_fold2 3940 ;  0.886894024399 ; 0.96776973083
+baseline_active_fold2 4540 ;  0.86238444136
+active_minimum_margin_fold2 4020 ;  0.88573274761
+active_cluster_svm_margin_fold2 3960 ;  0.887485082113 ; 0.967861675178
+baseline_active_fold2 4560 ;  0.861971128838
+active_minimum_margin_fold2 4040 ;  0.885328525185
+active_cluster_svm_margin_fold2 3980 ;  0.886243733041 ; 0.967899948971
+active_minimum_margin_fold2 4060 ;  0.887665153445
+baseline_active_fold2 4580 ;  0.86133402649
+active_cluster_svm_margin_fold2 4000 ;  0.889267760235 ; 0.968120598711
+active_minimum_margin_fold2 4080 ;  0.887604229503
+baseline_active_fold2 4600 ;  0.861776832954
+active_cluster_svm_margin_fold2 4020 ;  0.889199466152 ; 0.968297388873
+baseline_active_fold2 4620 ;  0.863001290524
+active_minimum_margin_fold2 4100 ;  0.888960137904
+active_cluster_svm_margin_fold2 4040 ;  0.887011304346 ; 0.971174986641
+active_minimum_margin_fold2 4120 ;  0.888717905329
+baseline_active_fold2 4640 ;  0.86212397202
+active_cluster_svm_margin_fold2 4060 ;  0.888849787785 ; 0.971154328497
+active_minimum_margin_fold2 4140 ;  0.888474587168
+baseline_active_fold2 4660 ;  0.861992684802
+active_cluster_svm_margin_fold2 4080 ;  0.887437877904 ; 0.971513685345
+active_minimum_margin_fold2 4160 ;  0.890375544218
+baseline_active_fold2 4680 ;  0.860667444133
+active_cluster_svm_margin_fold2 4100 ;  0.88811648375 ; 0.972316016012
+baseline_active_fold2 4700 ;  0.859782047724
+active_minimum_margin_fold2 4180 ;  0.890672784027
+active_cluster_svm_margin_fold2 4120 ;  0.887242411808 ; 0.972150414238
+baseline_active_fold2 4720 ;  0.860785733789
+active_minimum_margin_fold2 4200 ;  0.889205382773
+active_cluster_svm_margin_fold2 4140 ;  0.888383292286 ; 0.972357039919
+baseline_active_fold2 4740 ;  0.86088906866
+active_minimum_margin_fold2 4220 ;  0.889644787949
+active_cluster_svm_margin_fold2 4160 ;  0.888582185813 ; 0.972790365326
+baseline_active_fold2 4760 ;  0.859811157965
+active_minimum_margin_fold2 4240 ;  0.887232024796
+active_cluster_svm_margin_fold2 4180 ;  0.889981932451 ; 0.97308507258
+active_minimum_margin_fold2 4260 ;  0.888494068
+baseline_active_fold2 4780 ;  0.861107826686
+active_cluster_svm_margin_fold2 4200 ;  0.888762309545 ; 0.973387344495
+active_minimum_margin_fold2 4280 ;  0.8891166054
+baseline_active_fold2 4800 ;  0.860907883117
+active_minimum_margin_fold2 4300 ;  0.889206169877
+active_cluster_svm_margin_fold2 4220 ;  0.890312317601 ; 0.973805226832
+baseline_active_fold2 4820 ;  0.861927739084
+active_cluster_svm_margin_fold2 4240 ;  0.889740127699 ; 0.973847179388
+active_minimum_margin_fold2 4320 ;  0.88970844957
+baseline_active_fold2 4840 ;  0.863233104299
+active_minimum_margin_fold2 4340 ;  0.890229286013
+active_cluster_svm_margin_fold2 4260 ;  0.889513720404 ; 0.973811857977
+baseline_active_fold2 4860 ;  0.863560640882
+active_minimum_margin_fold2 4360 ;  0.890513537776
+active_cluster_svm_margin_fold2 4280 ;  0.887883239125 ; 0.973879869243
+baseline_active_fold2 4880 ;  0.865259540628
+baseline_active_fold2 4900 ;  0.863925101584
+active_minimum_margin_fold2 4380 ;  0.890323542966
+active_cluster_svm_margin_fold2 4300 ;  0.890963207802 ; 0.974199703598
+baseline_active_fold2 4920 ;  0.863821309292
+active_minimum_margin_fold2 4400 ;  0.889473674381
+active_cluster_svm_margin_fold2 4320 ;  0.892387106573 ; 0.973976786724
+baseline_active_fold2 4940 ;  0.864082484754
+active_minimum_margin_fold2 4420 ;  0.888170662055
+active_cluster_svm_margin_fold2 4340 ;  0.889060645253 ; 0.973369416624
+active_minimum_margin_fold2 4440 ;  0.888027088732
+baseline_active_fold2 4960 ;  0.865963453467
+active_cluster_svm_margin_fold2 4360 ;  0.889136135172 ; 0.974259718572
+active_minimum_margin_fold2 4460 ;  0.888895919854
+baseline_active_fold2 4980 ;  0.865056982002
+active_cluster_svm_margin_fold2 4380 ;  0.888429283599 ; 0.974701456545
+baseline_active_fold2 5000 ;  0.866591273706
+active_minimum_margin_fold2 4480 ;  0.888585985805
+active_cluster_svm_margin_fold2 4400 ;  0.888913909515 ; 0.974854327178
+baseline_active_fold2 5020 ;  0.867640863291
+active_minimum_margin_fold2 4500 ;  0.889406252012
+active_cluster_svm_margin_fold2 4420 ;  0.888211696972 ; 0.974843949742
+baseline_active_fold2 5040 ;  0.868946487824
+active_cluster_svm_margin_fold2 4440 ;  0.889076405485 ; 0.975254541117
+active_minimum_margin_fold2 4520 ;  0.890383857768
+active_cluster_svm_margin_fold2 4460 ;  0.88964040464 ; 0.975239981424
+baseline_active_fold2 5060 ;  0.869393322771
+active_minimum_margin_fold2 4540 ;  0.891491561428
+active_cluster_svm_margin_fold2 4480 ;  0.888401328389 ; 0.975266794321
+active_minimum_margin_fold2 4560 ;  0.890093236796
+baseline_active_fold2 5080 ;  0.867410987849
+active_cluster_svm_margin_fold2 4500 ;  0.888236849344 ; 0.975606401269
+active_minimum_margin_fold2 4580 ;  0.891228417687
+baseline_active_fold2 5100 ;  0.868928358414
+active_minimum_margin_fold2 4600 ;  0.891139487377
+active_cluster_svm_margin_fold2 4520 ;  0.888937906697 ; 0.976213350416
+baseline_active_fold2 5120 ;  0.869885822162
+active_minimum_margin_fold2 4620 ;  0.889168679885
+active_cluster_svm_margin_fold2 4540 ;  0.889726008668 ; 0.97627207049
+baseline_active_fold2 5140 ;  0.869492269459
+active_minimum_margin_fold2 4640 ;  0.890082329406
+active_cluster_svm_margin_fold2 4560 ;  0.89016205445 ; 0.976684579815
+baseline_active_fold2 5160 ;  0.870376449703
+active_cluster_svm_margin_fold2 4580 ;  0.891090468677 ; 0.977083321296
+active_minimum_margin_fold2 4660 ;  0.89067023917
+baseline_active_fold2 5180 ;  0.869662698225
+active_minimum_margin_fold2 4680 ;  0.889979832456
+active_cluster_svm_margin_fold2 4600 ;  0.890923806058 ; 0.977031718661
+baseline_active_fold2 5200 ;  0.869257793267
+active_cluster_svm_margin_fold2 4620 ;  0.890177582754 ; 0.977080390329
+baseline_active_fold2 5220 ;  0.869098269674
+active_minimum_margin_fold2 4700 ;  0.892181438632
+active_cluster_svm_margin_fold2 4640 ;  0.889899725706 ; 0.97733233369
+active_minimum_margin_fold2 4720 ;  0.891977051758
+baseline_active_fold2 5240 ;  0.870068308231
+active_cluster_svm_margin_fold2 4660 ;  0.889673739673 ; 0.977554738776
+active_minimum_margin_fold2 4740 ;  0.89174052111
+baseline_active_fold2 5260 ;  0.870001876855
+active_cluster_svm_margin_fold2 4680 ;  0.891971410708 ; 0.977270976356
+active_minimum_margin_fold2 4760 ;  0.892669782993
+baseline_active_fold2 5280 ;  0.870268551062
+active_cluster_svm_margin_fold2 4700 ;  0.892585711695 ; 0.977500148616
+active_minimum_margin_fold2 4780 ;  0.891696899924
+baseline_active_fold2 5300 ;  0.871336431189
+active_cluster_svm_margin_fold2 4720 ;  0.893711597662 ; 0.978435652312
+baseline_active_fold2 5320 ;  0.870640551061
+active_minimum_margin_fold2 4800 ;  0.891441648925
+active_cluster_svm_margin_fold2 4740 ;  0.891973997699 ; 0.978667538294
+baseline_active_fold2 5340 ;  0.872064108328
+active_minimum_margin_fold2 4820 ;  0.890767685756
+active_cluster_svm_margin_fold2 4760 ;  0.894405063709 ; 0.978736406323
+baseline_active_fold2 5360 ;  0.871756627392
+active_minimum_margin_fold2 4840 ;  0.892108213884
+active_cluster_svm_margin_fold2 4780 ;  0.894588315088 ; 0.978785745706
+baseline_active_fold2 5380 ;  0.871047856459
+active_minimum_margin_fold2 4860 ;  0.892323548194
+active_cluster_svm_margin_fold2 4800 ;  0.893313397061 ; 0.979047854919
+baseline_active_fold2 5400 ;  0.87033721425
+active_minimum_margin_fold2 4880 ;  0.893011333061
+active_cluster_svm_margin_fold2 4820 ;  0.894686211147 ; 0.979030125528
+active_minimum_margin_fold2 4900 ;  0.892509895625
+baseline_active_fold2 5420 ;  0.869625988848
+active_cluster_svm_margin_fold2 4840 ;  0.894549850668 ; 0.979110086273
+active_minimum_margin_fold2 4920 ;  0.894267122543
+baseline_active_fold2 5440 ;  0.871592266121
+active_cluster_svm_margin_fold2 4860 ;  0.894494552984 ; 0.979322355478
+active_minimum_margin_fold2 4940 ;  0.895310965073
+baseline_active_fold2 5460 ;  0.871567984225
+active_cluster_svm_margin_fold2 4880 ;  0.896399802215 ; 0.979584410264
+active_minimum_margin_fold2 4960 ;  0.894583919704
+baseline_active_fold2 5480 ;  0.872174352825
+active_cluster_svm_margin_fold2 4900 ;  0.896024398341 ; 0.979940365196
+active_minimum_margin_fold2 4980 ;  0.894495041684
+baseline_active_fold2 5500 ;  0.870818426203
+active_minimum_margin_fold2 5000 ;  0.894835568289
+active_cluster_svm_margin_fold2 4920 ;  0.896875827277 ; 0.980697341787
+baseline_active_fold2 5520 ;  0.871957884342
+active_cluster_svm_margin_fold2 4940 ;  0.895586270305 ; 0.980572457165
+active_minimum_margin_fold2 5020 ;  0.894859728555
+baseline_active_fold2 5540 ;  0.872591909431
+active_minimum_margin_fold2 5040 ;  0.894865498534
+active_cluster_svm_margin_fold2 4960 ;  0.895950259258 ; 0.980647906734
+baseline_active_fold2 5560 ;  0.871866856775
+active_minimum_margin_fold2 5060 ;  0.89556266593
+active_cluster_svm_margin_fold2 4980 ;  0.89646071241 ; 0.980682192656
+baseline_active_fold2 5580 ;  0.873480739983
+active_minimum_margin_fold2 5080 ;  0.896554219236
+active_cluster_svm_margin_fold2 5000 ;  0.896015514998 ; 0.980666887419
+baseline_active_fold2 5600 ;  0.872252592575
+active_cluster_svm_margin_fold2 5020 ;  0.896089035392 ; 0.980646123505
+active_minimum_margin_fold2 5100 ;  0.896170530522
+baseline_active_fold2 5620 ;  0.873611648631
+active_minimum_margin_fold2 5120 ;  0.896204543723
+active_cluster_svm_margin_fold2 5040 ;  0.896808949309 ; 0.980640954739
+baseline_active_fold2 5640 ;  0.875158379584
+active_minimum_margin_fold2 5140 ;  0.895041647106
+active_cluster_svm_margin_fold2 5060 ;  0.896822574798 ; 0.980816132676
+baseline_active_fold2 5660 ;  0.875225835272
+active_cluster_svm_margin_fold2 5080 ;  0.896129543615 ; 0.981644033296
+active_minimum_margin_fold2 5160 ;  0.896396972423
+baseline_active_fold2 5680 ;  0.875843407642
+active_cluster_svm_margin_fold2 5100 ;  0.896229729881 ; 0.981732993198
+active_minimum_margin_fold2 5180 ;  0.896884661581
+baseline_active_fold2 5700 ;  0.877218233268
+active_cluster_svm_margin_fold2 5120 ;  0.895311295246 ; 0.981841145151
+active_minimum_margin_fold2 5200 ;  0.897582379472
+baseline_active_fold2 5720 ;  0.876972272564
+active_cluster_svm_margin_fold2 5140 ;  0.895180569951 ; 0.982144033014
+active_minimum_margin_fold2 5220 ;  0.896547238777
+baseline_active_fold2 5740 ;  0.876884528006
+active_minimum_margin_fold2 5240 ;  0.896468798031
+active_cluster_svm_margin_fold2 5160 ;  0.895253174777 ; 0.982212285959
+baseline_active_fold2 5760 ;  0.877717869656
+active_cluster_svm_margin_fold2 5180 ;  0.895282250901 ; 0.982545100346
+active_minimum_margin_fold2 5260 ;  0.895329974622
+baseline_active_fold2 5780 ;  0.8774138223
+active_cluster_svm_margin_fold2 5200 ;  0.895524063089 ; 0.982616630927
+active_minimum_margin_fold2 5280 ;  0.896311212738
+baseline_active_fold2 5800 ;  0.876146268817
+active_cluster_svm_margin_fold2 5220 ;  0.896240520543 ; 0.982644482629
+active_minimum_margin_fold2 5300 ;  0.895666384326
+baseline_active_fold2 5820 ;  0.875924252296
+baseline_active_fold2 5840 ;  0.8758503527
+active_cluster_svm_margin_fold2 5240 ;  0.896219271789 ; 0.982681985017
+active_minimum_margin_fold2 5320 ;  0.895630322598
+baseline_active_fold2 5860 ;  0.878016707567
+active_cluster_svm_margin_fold2 5260 ;  0.896324229158 ; 0.982735348479
+active_minimum_margin_fold2 5340 ;  0.894839222927
+baseline_active_fold2 5880 ;  0.877731982712
+active_minimum_margin_fold2 5360 ;  0.894648267134
+active_cluster_svm_margin_fold2 5280 ;  0.8963694496 ; 0.982739950746
+active_minimum_margin_fold2 5380 ;  0.895665628427
+baseline_active_fold2 5900 ;  0.877987821664
+active_cluster_svm_margin_fold2 5300 ;  0.895043639468 ; 0.982998725762
+active_minimum_margin_fold2 5400 ;  0.894924176719
+baseline_active_fold2 5920 ;  0.878184375922
+active_cluster_svm_margin_fold2 5320 ;  0.89626311024 ; 0.982917008772
+active_cluster_svm_margin_fold2 5340 ;  0.896021755213 ; 0.983027093244
+baseline_active_fold2 5940 ;  0.878277117429
+active_minimum_margin_fold2 5420 ;  0.894331751847
+active_cluster_svm_margin_fold2 5360 ;  0.896436366213 ; 0.983637294228
+active_minimum_margin_fold2 5440 ;  0.895436086844
+baseline_active_fold2 5960 ;  0.878222439199
+active_cluster_svm_margin_fold2 5380 ;  0.896436366213 ; 0.983578116522
+baseline_active_fold2 5980 ;  0.877607412687
+active_minimum_margin_fold2 5460 ;  0.896029515245
+active_cluster_svm_margin_fold2 5400 ;  0.896542543764 ; 0.98356362732
+active_minimum_margin_fold2 5480 ;  0.895606676599
+baseline_active_fold2 6000 ;  0.878270656416
+active_cluster_svm_margin_fold2 5420 ;  0.896499872331 ; 0.983561723389
+active_minimum_margin_fold2 5500 ;  0.895334307987
+baseline_active_fold2 6020 ;  0.878709540895
+active_cluster_svm_margin_fold2 5440 ;  0.896488371798 ; 0.983393260396
+active_minimum_margin_fold2 5520 ;  0.895289379779
+baseline_active_fold2 6040 ;  0.87815388956
+active_cluster_svm_margin_fold2 5460 ;  0.895654913894 ; 0.983645169103
+active_minimum_margin_fold2 5540 ;  0.895422654121
+baseline_active_fold2 6060 ;  0.877724585541
+active_minimum_margin_fold2 5560 ;  0.895635839325
+active_cluster_svm_margin_fold2 5480 ;  0.896529242179 ; 0.983650726554
+baseline_active_fold2 6080 ;  0.877355497505
+active_cluster_svm_margin_fold2 5500 ;  0.896811069436 ; 0.983646087227
+active_minimum_margin_fold2 5580 ;  0.89533731656
+baseline_active_fold2 6100 ;  0.877188203601
+active_cluster_svm_margin_fold2 5520 ;  0.896858873194 ; 0.984161903918
+active_minimum_margin_fold2 5600 ;  0.89543444113
+baseline_active_fold2 6120 ;  0.87633237664
+active_minimum_margin_fold2 5620 ;  0.894197188013
+active_cluster_svm_margin_fold2 5540 ;  0.895419258073 ; 0.984191731703
+baseline_active_fold2 6140 ;  0.877358319703
+active_cluster_svm_margin_fold2 5560 ;  0.895458001969 ; 0.984401862125
+active_minimum_margin_fold2 5640 ;  0.89461228796
+baseline_active_fold2 6160 ;  0.878677772606
+active_cluster_svm_margin_fold2 5580 ;  0.896430253307 ; 0.984413311392
+active_minimum_margin_fold2 5660 ;  0.894262412509
+baseline_active_fold2 6180 ;  0.879074213511
+active_cluster_svm_margin_fold2 5600 ;  0.896048693557 ; 0.984391702153
+active_minimum_margin_fold2 5680 ;  0.895340128068
+baseline_active_fold2 6200 ;  0.879332371259
+active_cluster_svm_margin_fold2 5620 ;  0.895697723323 ; 0.984468507918
+active_minimum_margin_fold2 5700 ;  0.895813853498
+baseline_active_fold2 6220 ;  0.879020135401
+active_minimum_margin_fold2 5720 ;  0.895895786977
+active_cluster_svm_margin_fold2 5640 ;  0.894760731684 ; 0.984512392109
+baseline_active_fold2 6240 ;  0.878780994936
+active_minimum_margin_fold2 5740 ;  0.893894045002
+baseline_active_fold2 6260 ;  0.880866564782
+active_cluster_svm_margin_fold2 5660 ;  0.894531128476 ; 0.984591150511
+active_minimum_margin_fold2 5760 ;  0.893664084659
+baseline_active_fold2 6280 ;  0.880780444061
+active_cluster_svm_margin_fold2 5680 ;  0.895576746345 ; 0.98462630227
+active_minimum_margin_fold2 5780 ;  0.894286906547
+baseline_active_fold2 6300 ;  0.880612939502
+active_cluster_svm_margin_fold2 5700 ;  0.895883167772 ; 0.984654215393
+active_minimum_margin_fold2 5800 ;  0.893946347399
+baseline_active_fold2 6320 ;  0.881113218868
+active_cluster_svm_margin_fold2 5720 ;  0.894896109085 ; 0.984782437171
+active_minimum_margin_fold2 5820 ;  0.894320722758
+baseline_active_fold2 6340 ;  0.880498336731
+active_cluster_svm_margin_fold2 5740 ;  0.895270793534 ; 0.985310458344
+active_minimum_margin_fold2 5840 ;  0.894297773333
+active_cluster_svm_margin_fold2 5760 ;  0.896073653183 ; 0.985326798025
+baseline_active_fold2 6360 ;  0.880645330133
+active_minimum_margin_fold2 5860 ;  0.893572095993
+active_cluster_svm_margin_fold2 5780 ;  0.895571156496 ; 0.985561853803
+baseline_active_fold2 6380 ;  0.881206946061
+active_minimum_margin_fold2 5880 ;  0.893548339919
+active_cluster_svm_margin_fold2 5800 ;  0.895232656532 ; 0.985644041076
+baseline_active_fold2 6400 ;  0.881384183121
+active_minimum_margin_fold2 5900 ;  0.893918659835
+active_cluster_svm_margin_fold2 5820 ;  0.89460220696 ; 0.985665838856
+baseline_active_fold2 6420 ;  0.882295144845
+active_cluster_svm_margin_fold2 5840 ;  0.894208804257 ; 0.985693583209
+active_minimum_margin_fold2 5920 ;  0.894250690926
+baseline_active_fold2 6440 ;  0.881967086803
+active_minimum_margin_fold2 5940 ;  0.893900567203
+active_cluster_svm_margin_fold2 5860 ;  0.893892696017 ; 0.985735499426
+baseline_active_fold2 6460 ;  0.882403775158
+active_minimum_margin_fold2 5960 ;  0.894346693624
+active_cluster_svm_margin_fold2 5880 ;  0.894216586386 ; 0.985743368447
+baseline_active_fold2 6480 ;  0.88234415602
+active_minimum_margin_fold2 5980 ;  0.895309815393
+active_cluster_svm_margin_fold2 5900 ;  0.89419472014 ; 0.985727349667
+baseline_active_fold2 6500 ;  0.88271220851
+active_minimum_margin_fold2 6000 ;  0.895171336528
+active_cluster_svm_margin_fold2 5920 ;  0.89419472014 ; 0.985940055274
+baseline_active_fold2 6520 ;  0.882716921073
+active_minimum_margin_fold2 6020 ;  0.895119991631
+active_cluster_svm_margin_fold2 5940 ;  0.894520116618 ; 0.985929700567
+baseline_active_fold2 6540 ;  0.8836397834
+active_cluster_svm_margin_fold2 5960 ;  0.894775452085 ; 0.985925534054
+active_minimum_margin_fold2 6040 ;  0.894916144333
+baseline_active_fold2 6560 ;  0.883223810057
+active_cluster_svm_margin_fold2 5980 ;  0.894923300326 ; 0.985934375989
+active_minimum_margin_fold2 6060 ;  0.894885556427
+baseline_active_fold2 6580 ;  0.88291524995
+active_cluster_svm_margin_fold2 6000 ;  0.895584837203 ; 0.985279014681
+active_minimum_margin_fold2 6080 ;  0.895216379864
+baseline_active_fold2 6600 ;  0.883913821993
+active_minimum_margin_fold2 6100 ;  0.894915380196
+active_cluster_svm_margin_fold2 6020 ;  0.89496579353 ; 0.985384061805
+baseline_active_fold2 6620 ;  0.883406521467
+active_cluster_svm_margin_fold2 6040 ;  0.895632640506 ; 0.985396961603
+active_minimum_margin_fold2 6120 ;  0.895418476744
+baseline_active_fold2 6640 ;  0.884545049363
+active_cluster_svm_margin_fold2 6060 ;  0.895294998407 ; 0.98541809998
+active_minimum_margin_fold2 6140 ;  0.895083318353
+baseline_active_fold2 6660 ;  0.882797442874
+active_cluster_svm_margin_fold2 6080 ;  0.895294998407 ; 0.985438090225
+active_minimum_margin_fold2 6160 ;  0.895485097279
+baseline_active_fold2 6680 ;  0.882808694251
+active_cluster_svm_margin_fold2 6100 ;  0.894580502068 ; 0.985629903427
+active_minimum_margin_fold2 6180 ;  0.895854500211
+baseline_active_fold2 6700 ;  0.883187827391
+active_cluster_svm_margin_fold2 6120 ;  0.894896330568 ; 0.985644612287
+active_minimum_margin_fold2 6200 ;  0.894953184007
+baseline_active_fold2 6720 ;  0.883234137888
+active_cluster_svm_margin_fold2 6140 ;  0.894931596466 ; 0.98574415567
+active_minimum_margin_fold2 6220 ;  0.895846264035
+baseline_active_fold2 6740 ;  0.881927373356
+active_cluster_svm_margin_fold2 6160 ;  0.895234845724 ; 0.985908305883
+active_minimum_margin_fold2 6240 ;  0.895616209329
+active_cluster_svm_margin_fold2 6180 ;  0.896001612453 ; 0.985920825336
+baseline_active_fold2 6760 ;  0.882613111614
+active_minimum_margin_fold2 6260 ;  0.894892598714
+active_cluster_svm_margin_fold2 6200 ;  0.895613272606 ; 0.986073573999
+active_minimum_margin_fold2 6280 ;  0.894882038605
+baseline_active_fold2 6780 ;  0.882911864695
+active_cluster_svm_margin_fold2 6220 ;  0.89491849626 ; 0.986048379221
+active_minimum_margin_fold2 6300 ;  0.894882038605
+baseline_active_fold2 6800 ;  0.883955055445
+active_cluster_svm_margin_fold2 6240 ;  0.894930246547 ; 0.986036134203
+active_minimum_margin_fold2 6320 ;  0.895594559661
+baseline_active_fold2 6820 ;  0.883860046311
+active_minimum_margin_fold2 6340 ;  0.894563667212
+active_cluster_svm_margin_fold2 6260 ;  0.895705827351 ; 0.986053631916
+baseline_active_fold2 6840 ;  0.883986219387
+active_minimum_margin_fold2 6360 ;  0.894904859196
+active_cluster_svm_margin_fold2 6280 ;  0.895265289215 ; 0.986073354968
+baseline_active_fold2 6860 ;  0.882795715004
+active_cluster_svm_margin_fold2 6300 ;  0.895274840256 ; 0.986097782216
+active_minimum_margin_fold2 6380 ;  0.894569886965
+baseline_active_fold2 6880 ;  0.882836667376
+active_cluster_svm_margin_fold2 6320 ;  0.895591870481 ; 0.986098121306
+active_minimum_margin_fold2 6400 ;  0.894882038605
+baseline_active_fold2 6900 ;  0.882541272461
+active_cluster_svm_margin_fold2 6340 ;  0.89558231944 ; 0.986208416347
+active_minimum_margin_fold2 6420 ;  0.894882038605
+baseline_active_fold2 6920 ;  0.883237781566
+active_cluster_svm_margin_fold2 6360 ;  0.89558231944 ; 0.986235704898
+active_minimum_margin_fold2 6440 ;  0.894530288399
+baseline_active_fold2 6940 ;  0.883611156587
+active_cluster_svm_margin_fold2 6380 ;  0.895591870481 ; 0.986247566423
+active_minimum_margin_fold2 6460 ;  0.89472110585
+baseline_active_fold2 6960 ;  0.883360029289
+active_cluster_svm_margin_fold2 6400 ;  0.895950805282 ; 0.986155350789
+active_minimum_margin_fold2 6480 ;  0.894695135302
+baseline_active_fold2 6980 ;  0.88372776556
+active_minimum_margin_fold2 6500 ;  0.894296232925
+active_cluster_svm_margin_fold2 6420 ;  0.896338312789 ; 0.986291022023
+baseline_active_fold2 7000 ;  0.883711655837
+active_cluster_svm_margin_fold2 6440 ;  0.896737718743 ; 0.986254165327
+active_minimum_margin_fold2 6520 ;  0.894297655493
+baseline_active_fold2 7020 ;  0.883694910407
+active_cluster_svm_margin_fold2 6460 ;  0.896694833319 ; 0.986242592507
+active_minimum_margin_fold2 6540 ;  0.894411944164
+baseline_active_fold2 7040 ;  0.88391233724
+active_cluster_svm_margin_fold2 6480 ;  0.896307231973 ; 0.986225408183
+active_minimum_margin_fold2 6560 ;  0.894779554524
+baseline_active_fold2 7060 ;  0.883189269107
+active_cluster_svm_margin_fold2 6500 ;  0.895563203936 ; 0.98624949621
+active_minimum_margin_fold2 6580 ;  0.894379522186
+baseline_active_fold2 7080 ;  0.882164397835
+active_cluster_svm_margin_fold2 6520 ;  0.894956361189 ; 0.986328305407
+active_minimum_margin_fold2 6600 ;  0.893164851868
+baseline_active_fold2 7100 ;  0.882041872932
+active_cluster_svm_margin_fold2 6540 ;  0.895990015589 ; 0.986344927211
+active_minimum_margin_fold2 6620 ;  0.893385428824
+baseline_active_fold2 7120 ;  0.881260350973
+active_cluster_svm_margin_fold2 6560 ;  0.895334090438 ; 0.986357858473
+active_minimum_margin_fold2 6640 ;  0.893278242317
+baseline_active_fold2 7140 ;  0.880923446304
+active_cluster_svm_margin_fold2 6580 ;  0.894907368281 ; 0.986341117216
+active_minimum_margin_fold2 6660 ;  0.893268503641
+baseline_active_fold2 7160 ;  0.880339720976
+active_cluster_svm_margin_fold2 6600 ;  0.895198730638 ; 0.986361291474
+active_minimum_margin_fold2 6680 ;  0.893373327657
+baseline_active_fold2 7180 ;  0.881539955337
+active_cluster_svm_margin_fold2 6620 ;  0.894443877052 ; 0.986349656183
+active_minimum_margin_fold2 6700 ;  0.892608780089
+baseline_active_fold2 7200 ;  0.881614325227
+active_cluster_svm_margin_fold2 6640 ;  0.894010935519 ; 0.986373406974
+active_minimum_margin_fold2 6720 ;  0.893049601357
+baseline_active_fold2 7220 ;  0.881748781555
+active_cluster_svm_margin_fold2 6660 ;  0.894039275372 ; 0.986390266154
+active_minimum_margin_fold2 6740 ;  0.89262486137
+baseline_active_fold2 7240 ;  0.881827510003
+active_cluster_svm_margin_fold2 6680 ;  0.893277487007 ; 0.986401316272
+active_minimum_margin_fold2 6760 ;  0.892640336801
+active_cluster_svm_margin_fold2 6700 ;  0.892921579688 ; 0.986400432104
+baseline_active_fold2 7260 ;  0.881982412023
+active_minimum_margin_fold2 6780 ;  0.89259367673
+active_cluster_svm_margin_fold2 6720 ;  0.89394382377 ; 0.986409392944
+active_minimum_margin_fold2 6800 ;  0.892967682729
+baseline_active_fold2 7280 ;  0.882320250155
+active_minimum_margin_fold2 6820 ;  0.893013822986
+active_cluster_svm_margin_fold2 6740 ;  0.893304843036 ; 0.98640533431
+baseline_active_fold2 7300 ;  0.88229806578
+active_cluster_svm_margin_fold2 6760 ;  0.893304843036 ; 0.986397837851
+active_minimum_margin_fold2 6840 ;  0.893403765926
+baseline_active_fold2 7320 ;  0.882733838832
+active_cluster_svm_margin_fold2 6780 ;  0.893276662689 ; 0.98643594224
+active_minimum_margin_fold2 6860 ;  0.893067604459
+baseline_active_fold2 7340 ;  0.882965010529
+active_cluster_svm_margin_fold2 6800 ;  0.892875511379 ; 0.986463097508
+active_minimum_margin_fold2 6880 ;  0.893013822986
+baseline_active_fold2 7360 ;  0.882678526514
+active_cluster_svm_margin_fold2 6820 ;  0.89319856095 ; 0.986468218236
+active_minimum_margin_fold2 6900 ;  0.893079981418
+baseline_active_fold2 7380 ;  0.882732719457
+active_cluster_svm_margin_fold2 6840 ;  0.893627259961 ; 0.986463343592
+active_minimum_margin_fold2 6920 ;  0.893088194586
+baseline_active_fold2 7400 ;  0.883501662101
+active_cluster_svm_margin_fold2 6860 ;  0.894024093533 ; 0.986468701388
+active_minimum_margin_fold2 6940 ;  0.894486353019
+baseline_active_fold2 7420 ;  0.883530710366
+active_cluster_svm_margin_fold2 6880 ;  0.894009336043 ; 0.986490847892
+active_minimum_margin_fold2 6960 ;  0.894782358829
+baseline_active_fold2 7440 ;  0.882489728975
+active_cluster_svm_margin_fold2 6900 ;  0.893675115521 ; 0.9864936832
+active_minimum_margin_fold2 6980 ;  0.894788984577
+baseline_active_fold2 7460 ;  0.882648026404
+active_cluster_svm_margin_fold2 6920 ;  0.894023813669 ; 0.986503569902
+active_minimum_margin_fold2 7000 ;  0.894461325703
+baseline_active_fold2 7480 ;  0.882622417118
+active_cluster_svm_margin_fold2 6940 ;  0.893696915195 ; 0.986518029672
+active_minimum_margin_fold2 7020 ;  0.89443672079
+baseline_active_fold2 7500 ;  0.882600635965
+active_cluster_svm_margin_fold2 6960 ;  0.894748553403 ; 0.986525423533
+active_minimum_margin_fold2 7040 ;  0.894067464932
+baseline_active_fold2 7520 ;  0.884321616581
+active_cluster_svm_margin_fold2 6980 ;  0.894761831921 ; 0.98654480087
+active_minimum_margin_fold2 7060 ;  0.894041595864
+baseline_active_fold2 7540 ;  0.883139687242
+active_cluster_svm_margin_fold2 7000 ;  0.894094640527 ; 0.986555909021
+active_minimum_margin_fold2 7080 ;  0.894090912397
+active_cluster_svm_margin_fold2 7020 ;  0.894074996249 ; 0.986572320918
+baseline_active_fold2 7560 ;  0.882629155658
+active_minimum_margin_fold2 7100 ;  0.894090912397
+active_cluster_svm_margin_fold2 7040 ;  0.894105069462 ; 0.986559136278
+active_minimum_margin_fold2 7120 ;  0.894077633879
+baseline_active_fold2 7580 ;  0.880567013925
+active_cluster_svm_margin_fold2 7060 ;  0.894440723864 ; 0.986571764449
+active_minimum_margin_fold2 7140 ;  0.894027159898
+baseline_active_fold2 7600 ;  0.881247041002
+active_cluster_svm_margin_fold2 7080 ;  0.894427445346 ; 0.986560860307
+active_minimum_margin_fold2 7160 ;  0.894027159898
+baseline_active_fold2 7620 ;  0.881286445703
+active_cluster_svm_margin_fold2 7100 ;  0.894781585007 ; 0.986566439095
+active_minimum_margin_fold2 7180 ;  0.894267125462
+baseline_active_fold2 7640 ;  0.882920532109
+active_cluster_svm_margin_fold2 7120 ;  0.894781585007 ; 0.986557790577
+active_minimum_margin_fold2 7200 ;  0.894252689496
+baseline_active_fold2 7660 ;  0.884713763927
+active_cluster_svm_margin_fold2 7140 ;  0.893786123305 ; 0.98654573873
+active_minimum_margin_fold2 7220 ;  0.893671957477
+baseline_active_fold2 7680 ;  0.884194070127
+active_cluster_svm_margin_fold2 7160 ;  0.893786123305 ; 0.986547955763
+active_minimum_margin_fold2 7240 ;  0.893671957477
+baseline_active_fold2 7700 ;  0.883475942575
+active_cluster_svm_margin_fold2 7180 ;  0.893786123305 ; 0.986559629708
+active_minimum_margin_fold2 7260 ;  0.89396226599
+baseline_active_fold2 7720 ;  0.883513601199
+active_cluster_svm_margin_fold2 7200 ;  0.894709875212 ; 0.986558830634
+active_minimum_margin_fold2 7280 ;  0.893061114081
+baseline_active_fold2 7740 ;  0.885296966246
+active_cluster_svm_margin_fold2 7220 ;  0.89401619435 ; 0.986561578967
+active_minimum_margin_fold2 7300 ;  0.894878001925
+baseline_active_fold2 7760 ;  0.885562655104
+active_cluster_svm_margin_fold2 7240 ;  0.89401619435 ; 0.986541549815
+active_minimum_margin_fold2 7320 ;  0.894587693412
+baseline_active_fold2 7780 ;  0.885876555088
+active_cluster_svm_margin_fold2 7260 ;  0.894306502863 ; 0.986500607546
+active_minimum_margin_fold2 7340 ;  0.894254671628
+baseline_active_fold2 7800 ;  0.886853108009
+active_minimum_margin_fold2 7360 ;  0.894565173024
+active_cluster_svm_margin_fold2 7280 ;  0.894306502863 ; 0.986594602087
+baseline_active_fold2 7820 ;  0.887742523358
+active_minimum_margin_fold2 7380 ;  0.894913771194
+active_cluster_svm_margin_fold2 7300 ;  0.893758058626 ; 0.98663105686
+baseline_active_fold2 7840 ;  0.88651122177
+active_minimum_margin_fold2 7400 ;  0.894329115803
+active_cluster_svm_margin_fold2 7320 ;  0.894092320808 ; 0.98664107197
+active_cluster_svm_margin_fold2 7340 ;  0.894298951551 ; 0.986641260789
+active_minimum_margin_fold2 7420 ;  0.894678644912
+baseline_active_fold2 7860 ;  0.886424665442
+active_cluster_svm_margin_fold2 7360 ;  0.894298951551 ; 0.98664792618
+active_minimum_margin_fold2 7440 ;  0.894352249016
+baseline_active_fold2 7880 ;  0.885892831367
+active_cluster_svm_margin_fold2 7380 ;  0.894631973335 ; 0.986655117408
+active_minimum_margin_fold2 7460 ;  0.894133122661
+baseline_active_fold2 7900 ;  0.886162747668
+active_cluster_svm_margin_fold2 7400 ;  0.894329115803 ; 0.986674033582
+active_minimum_margin_fold2 7480 ;  0.894321963006
+baseline_active_fold2 7920 ;  0.886032979795
+active_cluster_svm_margin_fold2 7420 ;  0.894329115803 ; 0.986607399202
+active_minimum_margin_fold2 7500 ;  0.894334179741
+baseline_active_fold2 7940 ;  0.887234541791
+active_cluster_svm_margin_fold2 7440 ;  0.894329115803 ; 0.986585206269
+active_minimum_margin_fold2 7520 ;  0.894672451446
+baseline_active_fold2 7960 ;  0.885108699217
+active_cluster_svm_margin_fold2 7460 ;  0.894329115803 ; 0.986588024056
+active_minimum_margin_fold2 7540 ;  0.894310722474
+baseline_active_fold2 7980 ;  0.885471598012
+active_cluster_svm_margin_fold2 7480 ;  0.894325174146 ; 0.985988758986
+active_minimum_margin_fold2 7560 ;  0.893873281717
+baseline_active_fold2 8000 ;  0.886976225066
+active_cluster_svm_margin_fold2 7500 ;  0.894673872295 ; 0.985808523137
+active_minimum_margin_fold2 7580 ;  0.894320039656
+baseline_active_fold2 8020 ;  0.887068350052
+active_cluster_svm_margin_fold2 7520 ;  0.894325174146 ; 0.985817789654
+active_minimum_margin_fold2 7600 ;  0.893871358366
+baseline_active_fold2 8040 ;  0.886947612227
+active_cluster_svm_margin_fold2 7540 ;  0.894236431537 ; 0.985794447569
+active_minimum_margin_fold2 7620 ;  0.894022445302
+baseline_active_fold2 8060 ;  0.887416430578
+active_cluster_svm_margin_fold2 7560 ;  0.894279275256 ; 0.985712777097
+active_minimum_margin_fold2 7640 ;  0.893207783315
+baseline_active_fold2 8080 ;  0.887108014294
+active_cluster_svm_margin_fold2 7580 ;  0.893619620163 ; 0.985707135351
+active_minimum_margin_fold2 7660 ;  0.89366655244
+baseline_active_fold2 8100 ;  0.888637115201
+active_cluster_svm_margin_fold2 7600 ;  0.893619620163 ; 0.985698149402
+active_minimum_margin_fold2 7680 ;  0.893222156782
+baseline_active_fold2 8120 ;  0.887688934285
+active_cluster_svm_margin_fold2 7620 ;  0.893619620163 ; 0.985670363841
+active_minimum_margin_fold2 7700 ;  0.893555279228
+active_cluster_svm_margin_fold2 7640 ;  0.893680925907 ; 0.985657446041
+baseline_active_fold2 8140 ;  0.888021313839
+active_minimum_margin_fold2 7720 ;  0.893543062494
+active_cluster_svm_margin_fold2 7660 ;  0.893241502737 ; 0.985615916438
+baseline_active_fold2 8160 ;  0.888053987504
+active_minimum_margin_fold2 7740 ;  0.893522650689
+active_cluster_svm_margin_fold2 7680 ;  0.893241502737 ; 0.985629512783
+baseline_active_fold2 8180 ;  0.889383621695
+active_minimum_margin_fold2 7760 ;  0.893510433954
+active_cluster_svm_margin_fold2 7700 ;  0.893244322285 ; 0.985620891739
+active_minimum_margin_fold2 7780 ;  0.893801465486
+baseline_active_fold2 8200 ;  0.889684173249
+active_cluster_svm_margin_fold2 7720 ;  0.893555279228 ; 0.985616579246
+active_minimum_margin_fold2 7800 ;  0.893510433954
+baseline_active_fold2 8220 ;  0.889340014379
+active_cluster_svm_margin_fold2 7740 ;  0.893555279228 ; 0.985618897079
+active_minimum_margin_fold2 7820 ;  0.893833309263
+baseline_active_fold2 8240 ;  0.890121825014
+active_cluster_svm_margin_fold2 7760 ;  0.893555279228 ; 0.985622915357
+active_minimum_margin_fold2 7840 ;  0.893521674487
+baseline_active_fold2 8260 ;  0.890220090643
+active_cluster_svm_margin_fold2 7780 ;  0.893555279228 ; 0.98562763343
+active_minimum_margin_fold2 7860 ;  0.893898895716
+baseline_active_fold2 8280 ;  0.890500824512
+active_cluster_svm_margin_fold2 7800 ;  0.893522650689 ; 0.985602581744
+active_minimum_margin_fold2 7880 ;  0.893920283723
+baseline_active_fold2 8300 ;  0.890853401784
+active_cluster_svm_margin_fold2 7820 ;  0.893887958973 ; 0.98561491447
+active_minimum_margin_fold2 7900 ;  0.894252963468
+baseline_active_fold2 8320 ;  0.890199775888
+active_cluster_svm_margin_fold2 7840 ;  0.893864883381 ; 0.985616412547
+active_minimum_margin_fold2 7920 ;  0.895192405595
+baseline_active_fold2 8340 ;  0.890230221447
+active_cluster_svm_margin_fold2 7860 ;  0.893583875162 ; 0.985622814614
+active_minimum_margin_fold2 7940 ;  0.893832487539
+baseline_active_fold2 8360 ;  0.891280970766
+active_minimum_margin_fold2 7960 ;  0.89382258611
+active_cluster_svm_margin_fold2 7880 ;  0.893932500458 ; 0.985622550638
+baseline_active_fold2 8380 ;  0.891545040357
+active_cluster_svm_margin_fold2 7900 ;  0.894265180203 ; 0.985611830335
+active_minimum_margin_fold2 7980 ;  0.893508874547
+baseline_active_fold2 8400 ;  0.892162113218
+active_minimum_margin_fold2 8000 ;  0.89382258611
+active_cluster_svm_margin_fold2 7920 ;  0.894603581321 ; 0.985611170307
+baseline_active_fold2 8420 ;  0.893197264069
+active_minimum_margin_fold2 8020 ;  0.894178331091
+active_cluster_svm_margin_fold2 7940 ;  0.893520896897 ; 0.985616767553
+baseline_active_fold2 8440 ;  0.893791315155
+active_minimum_margin_fold2 8040 ;  0.894511352875
+active_cluster_svm_margin_fold2 7960 ;  0.893853784346 ; 0.98560063381
+baseline_active_fold2 8460 ;  0.89381070721
+active_minimum_margin_fold2 8060 ;  0.8945209078
+active_cluster_svm_margin_fold2 7980 ;  0.89422280897 ; 0.985600164172
+active_cluster_svm_margin_fold2 8000 ;  0.893887848636 ; 0.985602804791
+active_minimum_margin_fold2 8080 ;  0.89485472394
+active_cluster_svm_margin_fold2 8020 ;  0.893554961186 ; 0.985599038181
+active_minimum_margin_fold2 8100 ;  0.8945209078
+active_cluster_svm_margin_fold2 8040 ;  0.8945539633 ; 0.98559148643
+active_minimum_margin_fold2 8120 ;  0.8945209078
+active_cluster_svm_margin_fold2 8060 ;  0.89455641294 ; 0.985582812944
+active_minimum_margin_fold2 8140 ;  0.894853716958
+active_cluster_svm_margin_fold2 8080 ;  0.894544196206 ; 0.98558960926
+active_minimum_margin_fold2 8160 ;  0.894853716958
+active_cluster_svm_margin_fold2 8100 ;  0.894175171582 ; 0.985576298105
+active_minimum_margin_fold2 8180 ;  0.894543189225
+active_cluster_svm_margin_fold2 8120 ;  0.894165251513 ; 0.985556128382
+active_minimum_margin_fold2 8200 ;  0.894552826906
+active_cluster_svm_margin_fold2 8140 ;  0.894165251513 ; 0.985555987664
+active_minimum_margin_fold2 8220 ;  0.894543189225
+active_cluster_svm_margin_fold2 8160 ;  0.894174164601 ; 0.985575744918
+active_minimum_margin_fold2 8240 ;  0.894552826906
+active_cluster_svm_margin_fold2 8180 ;  0.894174164601 ; 0.985587093239
+active_minimum_margin_fold2 8260 ;  0.894163199037
+active_cluster_svm_margin_fold2 8200 ;  0.894242314705 ; 0.985598544336
+active_minimum_margin_fold2 8280 ;  0.894163199037
+active_cluster_svm_margin_fold2 8220 ;  0.894543189225 ; 0.985582465131
+active_minimum_margin_fold2 8300 ;  0.894163199037
+active_minimum_margin_fold2 8320 ;  0.894183802282
+active_cluster_svm_margin_fold2 8240 ;  0.894543189225 ; 0.985573332167
+active_cluster_svm_margin_fold2 8260 ;  0.894183802282 ; 0.985557728431
+active_minimum_margin_fold2 8340 ;  0.894174164601
+active_minimum_margin_fold2 8360 ;  0.894174164601
+active_cluster_svm_margin_fold2 8280 ;  0.894163199037 ; 0.985571710317
+active_minimum_margin_fold2 8380 ;  0.895016260158
+active_cluster_svm_margin_fold2 8300 ;  0.894163199037 ; 0.985566597117
+active_minimum_margin_fold2 8400 ;  0.894677797666
+active_cluster_svm_margin_fold2 8320 ;  0.894183802282 ; 0.985586297759
+active_cluster_svm_margin_fold2 8340 ;  0.894174164601 ; 0.98559925228
+active_minimum_margin_fold2 8420 ;  0.894677797666
+active_cluster_svm_margin_fold2 8360 ;  0.894174164601 ; 0.98561486673
+active_minimum_margin_fold2 8440 ;  0.894677797666
+active_cluster_svm_margin_fold2 8380 ;  0.895016260158 ; 0.985636756135
+active_cluster_svm_margin_fold2 8400 ;  0.895016260158 ; 0.985648340064
+active_cluster_svm_margin_fold2 8420 ;  0.894677797666 ; 0.985617938294
+active_cluster_svm_margin_fold2 8440 ;  0.894677797666 ; 0.985618183454
